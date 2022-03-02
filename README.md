@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Francesco Barletta
 - 👀 I’m interested in everything i'm interested
 - 🌱 I’m currently learning Cloud&Networks
-- 💞️ I’m looking to collaborate on Elon Musk
+- 💞️ I’m looking to collaborate w/ Elon Musk
 - 📫 How to reach me --> f.barletta14@gmail.com
 
 <!---
