@@ -26,6 +26,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"height="40" />
   </div>   
+ 
+ You can reach me on
+ 
+ <div >
+  <a href='https://www.instagram.com/il_barlo/'><img height="32" width="32" src="https://cdn.simpleicons.org/instagram" /></a>
+  <a href='https://www.linkedin.com/in/ilbarlo/'><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" /></a>
+  <a href='https://www.facebook.com/francesco.barletta.7359'><img height="32" width="32" src="https://cdn.simpleicons.org/facebook" /></a>
+ </div>
 
 
 <!---
