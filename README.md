@@ -7,7 +7,7 @@
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ilBarlo&show_icons=true&theme=algolia&layout=compact&title_color=#FFF&hide_border=true)
   
-  🌱 I’m currently learning Docker, Kubernetes, Ansible and Software Networking theory
+  🌱 I’m currently learning Docker, Kubernetes, Ansible and Software Networking & Cloud theory
   
    I've worked with the following technologies:
   <div>
@@ -26,13 +26,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"height="40" />
   </div>   
- 
- You can reach me on
- 
- <div >
-  <a href='https://www.instagram.com/il_barlo/'><img height="32" width="32" src="https://cdn.simpleicons.org/instagram" /></a>
-  <a href='https://www.linkedin.com/in/ilbarlo/'><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" /></a>
-  <a href='https://www.facebook.com/francesco.barletta.7359'><img height="32" width="32" src="https://cdn.simpleicons.org/facebook" /></a>
+ <hr/>
+ <div>
+  <h4>You can reach me on<h4/>
+  <a href='https://www.instagram.com/il_barlo/'><img height="40" width="32" src="https://cdn.simpleicons.org/instagram" /></a>
+  <a href='https://www.linkedin.com/in/ilbarlo/'><img height="40" width="32" src="https://cdn.simpleicons.org/linkedin" /></a>
+  <a href='https://www.facebook.com/francesco.barletta.7359'><img height="40" width="32" src="https://cdn.simpleicons.org/facebook" /></a>
  </div>
 
 
