@@ -3,7 +3,7 @@
  
   <h2> My name is <b>Francesco Pio Barletta</b> and you've found my code vault ⌨️ </h2>
 
-  <h4>Currently enrolled in the MsC Computer Engineering 💻 at Politecnico di Torino, learning about Cloud Computing and Computer Networks</h4>
+  <h4>Cloud Engineer 💻, AWS Certified, working on Cloud Computing and Computer Networks</h4>
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ilBarlo&show_icons=true&theme=algolia&layout=compact&title_color=#FFF&hide_border=true)
   
@@ -11,6 +11,7 @@
   
    I've worked with the following technologies:
   <div>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
